@@ -8,7 +8,7 @@
 - 우선순위, 캐시 구현, 프로세스 관리 등 입력된 **시간 순서**대로 처리해야 할 경우 사용
 - 용어: enqueue(삽입연산), dequeue(삭제연산)
 
-## [2. Stack](./stack/stack.js)
+## [2. Stack](./stack/stack.md)
 
 - 데이터를 제한적으로 접근할 수 있는 구조
 - `LIFO`(Last Input First Output) <---> **Queue와 반대**
